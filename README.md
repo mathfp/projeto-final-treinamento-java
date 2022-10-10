@@ -70,7 +70,7 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   * Alterar
   * Remover
   
-  Assim como na aba de clientes, também é possível o funcionário ao selecionar um pedido e realizar a alteração ou a remoção do pedido, atualizando na tabela pedido.
+  Assim como na aba de clientes, também é possível o funcionário ao selecionar um pedido, realizar a alteração e remoção do pedido, atualizando a tabela pedido.
   
   Regras de Negócio:
   
