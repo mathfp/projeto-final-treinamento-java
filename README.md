@@ -2,7 +2,7 @@ Projeto Final feito em Setembro de 2022 durante o Treinamento Java realizado pel
 
 Essa aplicação tem como objetivo praticar o que foi mostrado durante o treinamento Java, como aprendizado e evolução, esse projeto realiza conexão 
 com banco de bados local Mysql, possui duas tabelas (cliente e pedido) e se relacionam entre si, através dessa aplicação é possível 
-realizar um CRUD nas tabelas e exibir os dados de cliente e pedidos através de interfaces gráficas JFrame.
+realizar um CRUD nas tabelas e exibir os dados de clientes e pedidos através de interfaces gráficas JFrame.
 
 # Clientes do Restaurante
 
