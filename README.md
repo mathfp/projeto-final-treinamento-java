@@ -11,12 +11,12 @@ realizar um CRUD nas tabelas e exibir os dados de cliente e pedidos através de 
  
 ## Menu de Funções Cliente do Restaurante
 
+Sendo assim, o funcionário  seleciona os respectivos botões: 
+
   * Inserir Cliente
   * Alterar
   * Remover
   * Atualizar
-  
-  Sendo assim, o funcionário  seleciona os respectivas botões: 
   
    1. Inserir Cliente - o funcionário digita o nome, cpf e contato do cliente a ser inserido. Esse cliente é inserido na tabela de cliente e é exibido na interface.  
    
