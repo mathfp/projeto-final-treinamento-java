@@ -20,11 +20,11 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   
    1. Inserir Cliente - o funcionário digita o nome, cpf e contato do cliente a ser inserido. Esse cliente é inserido na tabela de cliente e é exibido na interface.  
    
-   ![image](https://user-images.githubusercontent.com/68198636/194936716-32aac772-d3ae-421e-bd8e-0748c64d15a1.png)
+   ![image](https://user-images.githubusercontent.com/68198636/194936716-32aac772-d3ae-421e-bd8e-0748c64d15a1.png) ![image](https://user-      images.githubusercontent.com/68198636/194936760-88572c8b-c945-4921-b205-610e74e35f50.png) ![image](https://user-images.githubusercontent.com/68198636/194936899-81135b0d-05b6-48bb-960b-d5788610e41a.png)
     
-   ![image](https://user-images.githubusercontent.com/68198636/194936760-88572c8b-c945-4921-b205-610e74e35f50.png)
    
-   ![image](https://user-images.githubusercontent.com/68198636/194936899-81135b0d-05b6-48bb-960b-d5788610e41a.png)
+   
+   
   
    ![image](https://user-images.githubusercontent.com/68198636/194936976-236424b8-cc55-4771-b11e-9d754e50a1ef.png)
    
