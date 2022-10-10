@@ -52,7 +52,7 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
 
   ## Menu de inserção de pedidos do cliente
   
-  ![image](https://user-images.githubusercontent.com/68198636/194938707-e8caf35e-6bd1-4a8a-8776-37940809d6a6.png)
+  ![image](https://user-images.githubusercontent.com/68198636/194939280-3558cdbe-285b-417d-b3d3-7ecf8aabc373.png)
   
   O funcionário seleciona o cliente a ter realizado o pedido, digita o valor do pedido e seleciona o prato e a bebida escolhida pelo cliente.
   
@@ -61,8 +61,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   
   ![image](https://user-images.githubusercontent.com/68198636/194939246-d657cfb0-1c1b-4216-93f1-da4d1d3b62a6.png)
   
-  ![image](https://user-images.githubusercontent.com/68198636/194939280-3558cdbe-285b-417d-b3d3-7ecf8aabc373.png)
-
   Ao selecionar o cliente e clicar na aba de pedidos, será exibido os pedidos realizados pelo cliente.
   
   ![image](https://user-images.githubusercontent.com/68198636/194939405-bcfbd1f6-ea49-4210-b4ab-f9d1ae54e70c.png)
