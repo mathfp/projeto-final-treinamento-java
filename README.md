@@ -57,7 +57,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   O funcionário seleciona o cliente a ter realizado o pedido, digita o valor do pedido e seleciona o prato e a bebida escolhida pelo cliente.
   
   ![image](https://user-images.githubusercontent.com/68198636/194938974-aa1a1795-b64a-4562-b1cb-d060c88b8815.png)
-
   ![image](https://user-images.githubusercontent.com/68198636/194939002-bf7004d7-e046-4487-982e-8cf40a784b09.png)
   
   ![image](https://user-images.githubusercontent.com/68198636/194939246-d657cfb0-1c1b-4216-93f1-da4d1d3b62a6.png)
