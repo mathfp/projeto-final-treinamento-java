@@ -1,7 +1,7 @@
 Projeto Final individual feito em Setembro de 2022 durante o Treinamento Java realizado pela Grande Porte Treinamentos no qual participei.
 
-Essa aplicação tem como objetivo praticar o que foi mostrado durante o treinamento Java como aprendizado e evolução,esse projeto realiza conexão 
-com banco de bados local Mysql que possui duas tabelas (cliente e pedido) e se relacionam entre si, e através dessa aplicação é possível 
+Essa aplicação tem como objetivo praticar o que foi mostrado durante o treinamento Java, como aprendizado e evolução, esse projeto realiza conexão 
+com banco de bados local Mysql, que possui duas tabelas (cliente e pedido) e se relacionam entre si, através dessa aplicação é possível 
 realizar o CRUD nessas tabelas e exibir os dados de cliente e pedidos através de interfaces gráficas JFrame.
 
 # Clientes do Restaurante
