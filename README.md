@@ -31,7 +31,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194937025-adc3ca1e-59c7-49ad-acf0-b62bfaf03750.png)
 
 
-   <br>
    2. Alterar Cliente - o funcionário seleciona na tabela o cliente que deseja ser alterado alguma informação. 
    Após isso o cliente é alterado na tabela e é exibido na interface após atualiza-la;
    
@@ -42,7 +41,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194937685-16cbd96e-2848-40f8-94b8-f9364fc716de.png)
    
    
-   <br>
    3. Remover Cliente -  o funcionário seleciona na tabela o cliente que deseja ser removido. 
    Após isso cliente é removido da tabela cliente e a interface é atualizada sem o cliente;
    
@@ -53,7 +51,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194938201-0b645c85-c977-45f0-8ae5-32217acbc1a1.png)
 
 
-   <br>
    4. Atualizar a interface após a alteração de um cliente;
    
    ![image](https://user-images.githubusercontent.com/68198636/194938321-2ac93c56-c694-4a90-b4bf-ac981a1bae0d.png)
@@ -62,7 +59,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   
    ![image](https://user-images.githubusercontent.com/68198636/194939246-d657cfb0-1c1b-4216-93f1-da4d1d3b62a6.png)
   
-  <br>
   O funcionário seleciona o cliente a ter realizado o pedido, digita o valor do pedido e seleciona o prato e a bebida escolhida pelo cliente.
   
    ![image](https://user-images.githubusercontent.com/68198636/194938974-aa1a1795-b64a-4562-b1cb-d060c88b8815.png)
@@ -70,7 +66,6 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
   
   ![image](https://user-images.githubusercontent.com/68198636/194939280-3558cdbe-285b-417d-b3d3-7ecf8aabc373.png)
   
-  <br>
   Ao selecionar o cliente e clicar na aba de pedidos, será exibido os pedidos realizados pelo cliente.
   
   ![image](https://user-images.githubusercontent.com/68198636/194939405-bcfbd1f6-ea49-4210-b4ab-f9d1ae54e70c.png)
