@@ -31,10 +31,10 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194937025-adc3ca1e-59c7-49ad-acf0-b62bfaf03750.png)
 
 
-   
+   <br>
    2. Alterar Cliente - o funcionário seleciona na tabela o cliente que deseja ser alterado alguma informação. 
    Após isso o cliente é alterado na tabela e é exibido na interface após atualiza-la;
-   
+   <br>
    ![image](https://user-images.githubusercontent.com/68198636/194937226-7283aaf3-2f31-4fe0-9284-72aecac1935a.png)
    
    ![image](https://user-images.githubusercontent.com/68198636/194937607-f68e7ceb-e541-4400-91aa-bb5148a8afc1.png)
