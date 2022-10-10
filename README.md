@@ -9,7 +9,7 @@ realizar um CRUD nas tabelas e exibir os dados de clientes e pedidos através de
 ![image](https://user-images.githubusercontent.com/68198636/194935379-4302ab13-78ed-4c10-80aa-87ff44c825c9.png)
 
  
-## Menu de Funções de Cliente do Restaurante
+## Menu de Funções do Cliente
 
 Sendo assim, o funcionário  seleciona os respectivos botões: 
 
