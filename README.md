@@ -31,6 +31,7 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194937025-adc3ca1e-59c7-49ad-acf0-b62bfaf03750.png)
 
 
+   
    2. Alterar Cliente - o funcionário seleciona na tabela o cliente que deseja ser alterado alguma informação. 
    Após isso o cliente é alterado na tabela e é exibido na interface após atualiza-la;
    
@@ -39,6 +40,7 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194937607-f68e7ceb-e541-4400-91aa-bb5148a8afc1.png)
 
    ![image](https://user-images.githubusercontent.com/68198636/194937685-16cbd96e-2848-40f8-94b8-f9364fc716de.png)
+   
    
    
    3. Remover Cliente -  o funcionário seleciona na tabela o cliente que deseja ser removido. 
@@ -51,6 +53,7 @@ Sendo assim, o funcionário  seleciona os respectivos botões:
    ![image](https://user-images.githubusercontent.com/68198636/194938201-0b645c85-c977-45f0-8ae5-32217acbc1a1.png)
 
 
+   
    4. Atualizar a interface após a alteração de um cliente;
    
    ![image](https://user-images.githubusercontent.com/68198636/194938321-2ac93c56-c694-4a90-b4bf-ac981a1bae0d.png)
